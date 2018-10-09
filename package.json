@@ -1,0 +1,11 @@
+{
+  "name": "portfolio grid layour",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC"
+}
